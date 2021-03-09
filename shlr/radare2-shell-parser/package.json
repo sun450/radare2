@@ -9,7 +9,7 @@
   "author": "Riccardo Schirone",
   "license": "ISC",
   "dependencies": {
-    "nan": "^2.14.0"
+    "nan": "^2.14.2"
   },
   "devDependencies": {
     "tree-sitter-cli": "^0.16.8"
